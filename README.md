@@ -1,2 +1,1 @@
-#!/bin/bash
-alx system engineerring devops repo
+Task 0. Where am I?
