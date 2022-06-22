@@ -1,1 +1,2 @@
-Read me is added to the alx-system_engineerring-devops repo
+#!/bin/bash
+alx system engineerring devops repo
